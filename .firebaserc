@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "staging": "wl-project-1",
+    "default": "wl-project-1"
+  }
+}
